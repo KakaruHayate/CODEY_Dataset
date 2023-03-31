@@ -1,5 +1,8 @@
+**前排提示，本仓库的切片并不合理，标注错误很多仅供参考，已经有人直接使用炼丹炸炉了🤣🤣🤣，修复待更新（我也不知道我什么时候会更新）**
+
+
 # 概述
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本数据集采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本数据集采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 一个第三方的泠鸢yousa歌声数据集，本数据集内容收集于互联网。
 
@@ -9,14 +12,14 @@
 
 数据中包含本数据集的收集者对数据的标注文件，处理.ass文件时请使用[Aegisub][1]同时配合[VoiceS][2]~~pip install voices 谢谢喵~~
 
-你可以注意到CC BY-NC 4.0许可禁止了商业使用，但按照所谓圈内的一般习惯，使用本数据集进行创作后在平台获取平台收益（激励计划等），或者在一些场合（如漫展）通过售卖自行制作的宣传品获取收益也是允许的，最终解释权由官方与本数据集的收集者所有。
+你可以注意到CC BY-NC-SA 4.0许可禁止了商业使用，但按照所谓圈内的一般习惯，使用本数据集进行创作后在平台获取平台收益（激励计划等），或者在一些场合（如漫展）通过售卖自行制作的宣传品获取收益也是允许的，最终解释权由官方与本数据集的收集者所有。
 
 一般而言对官方形象的篡改也是不被允许的，但在实际的情况中这一条被执行的非常模糊，对于本数据集而言，你可能需要注意谨慎使用“声线融合”技术。
 
 
 # 需要注意的地方
 
-**然而使用本数据集时，除了遵守CC BY-NC 4.0许可外，您还需要注意以下几点**
+**然而使用本数据集时，除了遵守CC BY-NC-SA 4.0许可外，您还需要注意以下几点**
 
  - 包括本项目在内和使用本项目素材制作的作品（包括音视频以及使用本数据集训练的AI模型），官方均有权力进行监管
  
