@@ -17,9 +17,8 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:06.05,Default,,0,0,0,,数着节拍一二三四一遍一遍去练习
-Dialogue: 0,0:00:06.05,0:00:10.81,Default,,0,0,0,,背靠着背唱一首新学会的歌曲
-Dialogue: 0,0:00:10.81,0:00:13.88,Default,,0,0,0,,不小心被分散注意
-Dialogue: 0,0:00:13.88,0:00:16.56,Default,,0,0,0,,我仍能追赶上去
-Dialogue: 0,0:00:16.56,0:00:21.57,Default,,0,0,0,,那时再来和我交换笑意
-Dialogue: 0,0:00:21.57,0:00:26.76,Default,,0,0,0,,记得给我最高分贝的回应​
+Dialogue: 0,0:00:00.00,0:00:06.10,Default,,0,0,0,,数着节拍一二三四一遍一遍去练习
+Dialogue: 0,0:00:06.10,0:00:10.87,Default,,0,0,0,,背靠着背唱一首新学会的歌曲
+Dialogue: 0,0:00:10.87,0:00:17.60,Default,,0,0,0,,不小心被分散注意 我仍能追赶上去那时
+Dialogue: 0,0:00:17.60,0:00:21.63,Default,,0,0,0,,再来和我交换笑意
+Dialogue: 0,0:00:21.63,0:00:26.76,Default,,0,0,0,,记得给我最高分贝的回应​

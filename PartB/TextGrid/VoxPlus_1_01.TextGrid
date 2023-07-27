@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 5.11
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 5.11
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0
+            xmax = 0.09
+            text = "SP"
+        intervals [2]:
+            xmin = 0.09
+            xmax = 0.44988663
+            text = "hui"
+        intervals [3]:
+            xmin = 0.44988663
+            xmax = 0.7256236
+            text = "you"
+        intervals [4]:
+            xmin = 0.7256236
+            xmax = 1.046712
+            text = "ying"
+        intervals [5]:
+            xmin = 1.046712
+            xmax = 1.3950114
+            text = "jie"
+        intervals [6]:
+            xmin = 1.3950114
+            xmax = 2.1451248
+            text = "de"
+        intervals [7]:
+            xmin = 2.1451248
+            xmax = 2.7764172
+            text = "jian"
+        intervals [8]:
+            xmin = 2.7764172
+            xmax = 4.8426304
+            text = "chuan"
+        intervals [9]:
+            xmin = 4.8426304
+            xmax = 5.11
+            text = "AP"
+    item [2]:
+        class = "IntervalTier"
+        name = "phones"
+        xmin = 0
+        xmax = 5.11
+        intervals: size = 16
+        intervals [1]:
+            xmin = 0
+            xmax = 0.09
+            text = "SP"
+        intervals [2]:
+            xmin = 0.09
+            xmax = 0.1324263
+            text = "h"
+        intervals [3]:
+            xmin = 0.1324263
+            xmax = 0.44988663
+            text = "ui"
+        intervals [4]:
+            xmin = 0.44988663
+            xmax = 0.48344672000000005
+            text = "y"
+        intervals [5]:
+            xmin = 0.48344672000000005
+            xmax = 0.7256236
+            text = "ou"
+        intervals [6]:
+            xmin = 0.7256236
+            xmax = 0.7664399
+            text = "y"
+        intervals [7]:
+            xmin = 0.7664399
+            xmax = 1.046712
+            text = "ing"
+        intervals [8]:
+            xmin = 1.046712
+            xmax = 1.1727891
+            text = "j"
+        intervals [9]:
+            xmin = 1.1727891
+            xmax = 1.3950114
+            text = "ie"
+        intervals [10]:
+            xmin = 1.3950114
+            xmax = 1.5238096
+            text = "d"
+        intervals [11]:
+            xmin = 1.5238096
+            xmax = 2.1451248
+            text = "e"
+        intervals [12]:
+            xmin = 2.1451248
+            xmax = 2.2421768
+            text = "j"
+        intervals [13]:
+            xmin = 2.2421768
+            xmax = 2.7764172
+            text = "ian"
+        intervals [14]:
+            xmin = 2.7764172
+            xmax = 2.8761904
+            text = "ch"
+        intervals [15]:
+            xmin = 2.8761904
+            xmax = 4.8426304
+            text = "uan"
+        intervals [16]:
+            xmin = 4.8426304
+            xmax = 5.11
+            text = "AP"
