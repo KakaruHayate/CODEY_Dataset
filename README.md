@@ -1,11 +1,11 @@
 # 概述
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本数据集采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本数据集采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 一个第三方的泠鸢yousa歌声数据集，本数据集内容收集于互联网。
 
 **一般来讲，[泠鸢yousa][3]官方（以下简称为“官方”）持有的所有素材（包括美术素材、发表的音视频、直播录像）均不会被授权进行任何的二次创作。**
 
-**但另一方面，官方对所有相关的二次创作持鼓励态度，包括音视频素材的再剪辑/再编辑后发布，故本项目对互联网上存在的素材进行分发以及使用本项目进行再演绎是存在合法性的。**
+**但另一方面，官方对所有相关的二次创作（包括AI创作）持鼓励态度，包括音视频素材的再剪辑/再编辑后发布，故本项目对互联网上存在的素材进行分发以及使用本项目进行再演绎是存在合法性的。**
 
 数据中包含本数据集的收集者对数据的标注文件，处理.ass文件时请使用[Aegisub][1]同时配合[VoiceS][2]~~pip install voices 谢谢喵~~
 
