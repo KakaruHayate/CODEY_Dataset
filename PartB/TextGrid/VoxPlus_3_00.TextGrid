@@ -30,10 +30,10 @@ item []:
             text = "dai"
         intervals [5]:
             xmin = 1.660771
-            xmax = 2.7419502000000002
+            xmax = 2.8408164
             text = "zou"
         intervals [6]:
-            xmin = 2.7419502000000002
+            xmin = 2.8408164
             xmax = 3.5100002
             text = "SP"
         intervals [7]:
@@ -62,10 +62,10 @@ item []:
             text = "shi"
         intervals [13]:
             xmin = 6.6802719999999995
-            xmax = 7.395011
+            xmax = 7.4331064
             text = "ji"
         intervals [14]:
-            xmin = 7.395011
+            xmin = 7.4331064
             xmax = 7.4975
             text = "SP"
         intervals [15]:
@@ -88,10 +88,10 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.07346939000000001
-            xmax = 0.19
+            xmax = 0.17324262999999998
             text = "w"
         intervals [3]:
-            xmin = 0.19
+            xmin = 0.17324262999999998
             xmax = 0.492517
             text = "u"
         intervals [4]:
@@ -104,10 +104,10 @@ item []:
             text = "en"
         intervals [6]:
             xmin = 1.265
-            xmax = 1.34
+            xmax = 1.3342403999999999
             text = "d"
         intervals [7]:
-            xmin = 1.34
+            xmin = 1.3342403999999999
             xmax = 1.660771
             text = "ai"
         intervals [8]:
@@ -116,10 +116,10 @@ item []:
             text = "z"
         intervals [9]:
             xmin = 1.7804989
-            xmax = 2.7419502000000002
+            xmax = 2.8408164
             text = "ou"
         intervals [10]:
-            xmin = 2.7419502000000002
+            xmin = 2.8408164
             xmax = 3.5100002
             text = "SP"
         intervals [11]:
@@ -148,18 +148,18 @@ item []:
             text = "o"
         intervals [17]:
             xmin = 4.77
-            xmax = 4.85
+            xmax = 4.8326530000000005
             text = "l"
         intervals [18]:
-            xmin = 4.85
+            xmin = 4.8326530000000005
             xmax = 5.169161
             text = "uo"
         intervals [19]:
             xmin = 5.169161
-            xmax = 5.2099775
+            xmax = 5.206349
             text = "d"
         intervals [20]:
-            xmin = 5.2099775
+            xmin = 5.206349
             xmax = 6.208616699999999
             text = "e"
         intervals [21]:
@@ -176,10 +176,10 @@ item []:
             text = "j"
         intervals [24]:
             xmin = 6.83
-            xmax = 7.395011
+            xmax = 7.4331064
             text = "i"
         intervals [25]:
-            xmin = 7.395011
+            xmin = 7.4331064
             xmax = 7.4975
             text = "SP"
         intervals [26]:

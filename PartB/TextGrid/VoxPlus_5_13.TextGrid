@@ -18,10 +18,10 @@ item []:
             text = "AP"
         intervals [2]:
             xmin = 0.4775
-            xmax = 1.043991
+            xmax = 1.0911565
             text = "xiang"
         intervals [3]:
-            xmin = 1.043991
+            xmin = 1.0911565
             xmax = 1.5909297
             text = "yan"
         intervals [4]:
@@ -60,10 +60,10 @@ item []:
             text = "x"
         intervals [3]:
             xmin = 0.6430838999999999
-            xmax = 1.043991
+            xmax = 1.0911565
             text = "iang"
         intervals [4]:
-            xmin = 1.043991
+            xmin = 1.0911565
             xmax = 1.1374149
             text = "y"
         intervals [5]:

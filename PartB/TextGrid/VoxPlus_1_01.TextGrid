@@ -34,10 +34,10 @@ item []:
             text = "jie"
         intervals [6]:
             xmin = 1.3950114
-            xmax = 2.1451248
+            xmax = 2.1179137999999997
             text = "de"
         intervals [7]:
-            xmin = 2.1451248
+            xmin = 2.1179137999999997
             xmax = 2.7764172
             text = "jian"
         intervals [8]:
@@ -60,10 +60,10 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.09
-            xmax = 0.1324263
+            xmax = 0.1351474
             text = "h"
         intervals [3]:
-            xmin = 0.1324263
+            xmin = 0.1351474
             xmax = 0.44988663
             text = "ui"
         intervals [4]:
@@ -92,14 +92,14 @@ item []:
             text = "ie"
         intervals [10]:
             xmin = 1.3950114
-            xmax = 1.5238096
+            xmax = 1.513832
             text = "d"
         intervals [11]:
-            xmin = 1.5238096
-            xmax = 2.1451248
+            xmin = 1.513832
+            xmax = 2.1179137999999997
             text = "e"
         intervals [12]:
-            xmin = 2.1451248
+            xmin = 2.1179137999999997
             xmax = 2.2421768
             text = "j"
         intervals [13]:

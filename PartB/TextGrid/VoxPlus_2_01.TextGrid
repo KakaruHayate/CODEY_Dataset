@@ -62,10 +62,10 @@ item []:
             text = "de"
         intervals [13]:
             xmin = 3.445
-            xmax = 3.8258503
+            xmax = 3.7977323999999997
             text = "ge"
         intervals [14]:
-            xmin = 3.8258503
+            xmin = 3.7977323999999997
             xmax = 4.5160995999999995
             text = "qu"
         intervals [15]:
@@ -88,10 +88,10 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.023582764000000003
-            xmax = 0.06
+            xmax = 0.05170068
             text = "b"
         intervals [3]:
-            xmin = 0.06
+            xmin = 0.05170068
             xmax = 0.33650793
             text = "ei"
         intervals [4]:
@@ -176,14 +176,14 @@ item []:
             text = "e"
         intervals [24]:
             xmin = 3.445
-            xmax = 3.631746
+            xmax = 3.629025
             text = "g"
         intervals [25]:
-            xmin = 3.631746
-            xmax = 3.8258503
+            xmin = 3.629025
+            xmax = 3.7977323999999997
             text = "e"
         intervals [26]:
-            xmin = 3.8258503
+            xmin = 3.7977323999999997
             xmax = 3.998186
             text = "q"
         intervals [27]:

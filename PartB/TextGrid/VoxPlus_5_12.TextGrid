@@ -34,10 +34,10 @@ item []:
             text = "jing"
         intervals [6]:
             xmin = 4.8375
-            xmax = 5.35
+            xmax = 5.3931973
             text = "zhong"
         intervals [7]:
-            xmin = 5.35
+            xmin = 5.3931973
             xmax = 7.39
             text = "hua"
     item [2]:
@@ -52,10 +52,10 @@ item []:
             text = "AP"
         intervals [2]:
             xmin = 0.56145123
-            xmax = 0.61
+            xmax = 0.6022676
             text = "y"
         intervals [3]:
-            xmin = 0.61
+            xmin = 0.6022676
             xmax = 1.4040816999999999
             text = "i"
         intervals [4]:
@@ -88,10 +88,10 @@ item []:
             text = "zh"
         intervals [11]:
             xmin = 4.923356
-            xmax = 5.35
+            xmax = 5.3931973
             text = "ong"
         intervals [12]:
-            xmin = 5.35
+            xmin = 5.3931973
             xmax = 5.4947847
             text = "h"
         intervals [13]:

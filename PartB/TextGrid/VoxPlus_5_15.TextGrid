@@ -72,10 +72,10 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.048072563000000006
-            xmax = 0.19
+            xmax = 0.17868481
             text = "z"
         intervals [3]:
-            xmin = 0.19
+            xmin = 0.17868481
             xmax = 0.5714286
             text = "en"
         intervals [4]:
@@ -112,26 +112,26 @@ item []:
             text = "iu"
         intervals [12]:
             xmin = 4.63
-            xmax = 4.68
+            xmax = 4.668481
             text = "l"
         intervals [13]:
-            xmin = 4.68
+            xmin = 4.668481
             xmax = 4.895
             text = "iu"
         intervals [14]:
             xmin = 4.895
-            xmax = 4.97
+            xmax = 4.9560093
             text = "d"
         intervals [15]:
-            xmin = 4.97
+            xmin = 4.9560093
             xmax = 5.16
             text = "ao"
         intervals [16]:
             xmin = 5.16
-            xmax = 5.24
+            xmax = 5.222676000000001
             text = "d"
         intervals [17]:
-            xmin = 5.24
+            xmin = 5.222676000000001
             xmax = 7.3233559999999995
             text = "ong"
         intervals [18]:

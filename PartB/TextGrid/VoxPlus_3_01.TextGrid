@@ -11,7 +11,7 @@ item []:
         name = "words"
         xmin = 0
         xmax = 5.02
-        intervals: size = 12
+        intervals: size = 11
         intervals [1]:
             xmin = 0
             xmax = 0.028117913999999997
@@ -22,14 +22,14 @@ item []:
             text = "yi"
         intervals [3]:
             xmin = 0.45
-            xmax = 0.81814056
+            xmax = 0.7791383
             text = "luo"
         intervals [4]:
-            xmin = 0.81814056
-            xmax = 1.105669
+            xmin = 0.7791383
+            xmax = 1.1265306000000002
             text = "zai"
         intervals [5]:
-            xmin = 1.105669
+            xmin = 1.1265306000000002
             xmax = 1.82
             text = "wo"
         intervals [6]:
@@ -42,21 +42,17 @@ item []:
             text = "kai"
         intervals [8]:
             xmin = 2.4081633
-            xmax = 2.5687075
+            xmax = 2.5641724
             text = "de"
         intervals [9]:
-            xmin = 2.5687075
-            xmax = 2.61
-            text = "SP"
-        intervals [10]:
-            xmin = 2.61
+            xmin = 2.5641724
             xmax = 2.9097505
             text = "chou"
-        intervals [11]:
+        intervals [10]:
             xmin = 2.9097505
             xmax = 4.370068
             text = "ti"
-        intervals [12]:
+        intervals [11]:
             xmin = 4.370068
             xmax = 5.02
             text = "SP"
@@ -65,7 +61,7 @@ item []:
         name = "phones"
         xmin = 0
         xmax = 5.02
-        intervals: size = 21
+        intervals: size = 20
         intervals [1]:
             xmin = 0
             xmax = 0.028117913999999997
@@ -84,18 +80,18 @@ item []:
             text = "l"
         intervals [5]:
             xmin = 0.52
-            xmax = 0.81814056
+            xmax = 0.7791383
             text = "uo"
         intervals [6]:
-            xmin = 0.81814056
+            xmin = 0.7791383
             xmax = 0.9097505499999999
             text = "z"
         intervals [7]:
             xmin = 0.9097505499999999
-            xmax = 1.105669
+            xmax = 1.1265306000000002
             text = "ai"
         intervals [8]:
-            xmin = 1.105669
+            xmin = 1.1265306000000002
             xmax = 1.1764172000000002
             text = "w"
         intervals [9]:
@@ -104,18 +100,18 @@ item []:
             text = "o"
         intervals [10]:
             xmin = 1.82
-            xmax = 1.88
+            xmax = 1.8666666
             text = "w"
         intervals [11]:
-            xmin = 1.88
+            xmin = 1.8666666
             xmax = 2.0362811
             text = "ei"
         intervals [12]:
             xmin = 2.0362811
-            xmax = 2.17
+            xmax = 2.1287979999999997
             text = "k"
         intervals [13]:
-            xmin = 2.17
+            xmin = 2.1287979999999997
             xmax = 2.4081633
             text = "ai"
         intervals [14]:
@@ -124,29 +120,25 @@ item []:
             text = "d"
         intervals [15]:
             xmin = 2.4852607
-            xmax = 2.5687075
+            xmax = 2.5641724
             text = "e"
         intervals [16]:
-            xmin = 2.5687075
-            xmax = 2.61
-            text = "SP"
-        intervals [17]:
-            xmin = 2.61
-            xmax = 2.76
+            xmin = 2.5641724
+            xmax = 2.7464854
             text = "ch"
-        intervals [18]:
-            xmin = 2.76
+        intervals [17]:
+            xmin = 2.7464854
             xmax = 2.9097505
             text = "ou"
-        intervals [19]:
+        intervals [18]:
             xmin = 2.9097505
-            xmax = 3.06
+            xmax = 2.9931973
             text = "t"
-        intervals [20]:
-            xmin = 3.06
+        intervals [19]:
+            xmin = 2.9931973
             xmax = 4.370068
             text = "i"
-        intervals [21]:
+        intervals [20]:
             xmin = 4.370068
             xmax = 5.02
             text = "SP"

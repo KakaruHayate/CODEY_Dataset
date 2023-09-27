@@ -34,10 +34,10 @@ item []:
             text = "qi"
         intervals [6]:
             xmin = 4.0761904
-            xmax = 6.0975
+            xmax = 6.0072563
             text = "yuan"
         intervals [7]:
-            xmin = 6.0975
+            xmin = 6.0072563
             xmax = 6.71
             text = "AP"
     item [2]:
@@ -68,10 +68,10 @@ item []:
             text = "uo"
         intervals [6]:
             xmin = 2.11
-            xmax = 2.22
+            xmax = 2.209524
             text = "m"
         intervals [7]:
-            xmin = 2.22
+            xmin = 2.209524
             xmax = 3.4929704999999998
             text = "ei"
         intervals [8]:
@@ -88,9 +88,9 @@ item []:
             text = "y"
         intervals [11]:
             xmin = 4.119728
-            xmax = 6.0975
+            xmax = 6.0072563
             text = "van"
         intervals [12]:
-            xmin = 6.0975
+            xmin = 6.0072563
             xmax = 6.71
             text = "AP"

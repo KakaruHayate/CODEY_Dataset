@@ -152,10 +152,10 @@ item []:
             text = "ir"
         intervals [16]:
             xmin = 3.1900002
-            xmax = 3.261678
+            xmax = 3.228118
             text = "l"
         intervals [17]:
-            xmin = 3.261678
+            xmin = 3.228118
             xmax = 3.5446711
             text = "ang"
         intervals [18]:

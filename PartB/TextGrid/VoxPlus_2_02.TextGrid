@@ -200,10 +200,10 @@ item []:
             text = "o"
         intervals [22]:
             xmin = 3.4300002
-            xmax = 3.4700002
+            xmax = 3.4575964
             text = "r"
         intervals [23]:
-            xmin = 3.4700002
+            xmin = 3.4575964
             xmax = 3.727891
             text = "eng"
         intervals [24]:
@@ -224,10 +224,10 @@ item []:
             text = "ui"
         intervals [28]:
             xmin = 4.2712017
-            xmax = 4.347392
+            xmax = 4.342857
             text = "g"
         intervals [29]:
-            xmin = 4.347392
+            xmin = 4.342857
             xmax = 4.441723
             text = "an"
         intervals [30]:

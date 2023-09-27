@@ -68,10 +68,10 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.09
-            xmax = 0.16
+            xmax = 0.154195
             text = "b"
         intervals [3]:
-            xmin = 0.16
+            xmin = 0.154195
             xmax = 0.48253967
             text = "ao"
         intervals [4]:
@@ -108,10 +108,10 @@ item []:
             text = "an"
         intervals [12]:
             xmin = 2.99
-            xmax = 3.0712020000000004
+            xmax = 3.0303855
             text = "y"
         intervals [13]:
-            xmin = 3.0712020000000004
+            xmin = 3.0303855
             xmax = 3.3
             text = "ve"
         intervals [14]:

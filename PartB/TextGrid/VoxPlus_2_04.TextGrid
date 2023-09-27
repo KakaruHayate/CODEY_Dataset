@@ -116,10 +116,10 @@ item []:
             text = "SP"
         intervals [9]:
             xmin = 1.04
-            xmax = 1.13
+            xmax = 1.1129251999999998
             text = "g"
         intervals [10]:
-            xmin = 1.13
+            xmin = 1.1129251999999998
             xmax = 1.4240363
             text = "ei"
         intervals [11]:
@@ -156,10 +156,10 @@ item []:
             text = "en"
         intervals [19]:
             xmin = 2.3827664
-            xmax = 2.4235828
+            xmax = 2.4217687999999997
             text = "b"
         intervals [20]:
-            xmin = 2.4235828
+            xmin = 2.4217687999999997
             xmax = 2.6294785000000003
             text = "ei"
         intervals [21]:

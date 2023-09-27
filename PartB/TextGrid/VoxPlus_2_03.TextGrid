@@ -51,7 +51,7 @@ item []:
         intervals [10]:
             xmin = 3.4585034
             xmax = 3.6475
-            text = "AP"
+            text = "SP"
         intervals [11]:
             xmin = 3.6475
             xmax = 4.0300002
@@ -133,7 +133,7 @@ item []:
         intervals [18]:
             xmin = 3.4585034
             xmax = 3.6475
-            text = "AP"
+            text = "SP"
         intervals [19]:
             xmin = 3.6475
             xmax = 4.0300002

@@ -100,10 +100,10 @@ item []:
             text = "i"
         intervals [7]:
             xmin = 4.9
-            xmax = 4.979591999999999
+            xmax = 4.9678002999999995
             text = "g"
         intervals [8]:
-            xmin = 4.979591999999999
+            xmin = 4.9678002999999995
             xmax = 5.4
             text = "e"
         intervals [9]:

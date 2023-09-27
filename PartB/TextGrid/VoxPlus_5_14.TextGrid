@@ -76,10 +76,10 @@ item []:
             text = "AP"
         intervals [3]:
             xmin = 0.6975
-            xmax = 0.7600907
+            xmax = 0.7582767
             text = "d"
         intervals [4]:
-            xmin = 0.7600907
+            xmin = 0.7582767
             xmax = 1.0675736999999998
             text = "uo"
         intervals [5]:

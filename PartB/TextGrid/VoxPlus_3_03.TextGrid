@@ -34,10 +34,10 @@ item []:
             text = "mo"
         intervals [6]:
             xmin = 1.81678
-            xmax = 2.4480725000000003
+            xmax = 2.4580498
             text = "dian"
         intervals [7]:
-            xmin = 2.4480725000000003
+            xmin = 2.4580498
             xmax = 2.535
             text = "SP"
         intervals [8]:
@@ -46,18 +46,18 @@ item []:
             text = "AP"
         intervals [9]:
             xmin = 2.86
-            xmax = 3.2816326
+            xmax = 3.2979591999999998
             text = "yun"
         intervals [10]:
-            xmin = 3.2816326
+            xmin = 3.2979591999999998
             xmax = 3.7297053
             text = "ran"
         intervals [11]:
             xmin = 3.7297053
-            xmax = 4.235
+            xmax = 4.281179
             text = "zai"
         intervals [12]:
-            xmin = 4.235
+            xmin = 4.281179
             xmax = 4.365
             text = "SP"
         intervals [13]:
@@ -90,10 +90,10 @@ item []:
             text = "mei"
         intervals [20]:
             xmin = 6.6167803
-            xmax = 8.1605444
+            xmax = 8.1687075
             text = "ji"
         intervals [21]:
-            xmin = 8.1605444
+            xmin = 8.1687075
             xmax = 8.3
             text = "SP"
         intervals [22]:
@@ -136,22 +136,22 @@ item []:
             text = "e"
         intervals [8]:
             xmin = 1.38
-            xmax = 1.5
+            xmax = 1.4575962999999998
             text = "m"
         intervals [9]:
-            xmin = 1.5
+            xmin = 1.4575962999999998
             xmax = 1.81678
             text = "o"
         intervals [10]:
             xmin = 1.81678
-            xmax = 1.93
+            xmax = 1.9174603
             text = "d"
         intervals [11]:
-            xmin = 1.93
-            xmax = 2.4480725000000003
+            xmin = 1.9174603
+            xmax = 2.4580498
             text = "ian"
         intervals [12]:
-            xmin = 2.4480725000000003
+            xmin = 2.4580498
             xmax = 2.535
             text = "SP"
         intervals [13]:
@@ -164,10 +164,10 @@ item []:
             text = "y"
         intervals [15]:
             xmin = 2.9260771
-            xmax = 3.2816326
+            xmax = 3.2979591999999998
             text = "vn"
         intervals [16]:
-            xmin = 3.2816326
+            xmin = 3.2979591999999998
             xmax = 3.3500001999999998
             text = "r"
         intervals [17]:
@@ -176,16 +176,16 @@ item []:
             text = "an"
         intervals [18]:
             xmin = 3.7297053
-            xmax = 3.8240364
+            xmax = 3.8077096999999998
             text = "z"
         intervals [19]:
-            xmin = 3.8240364
-            xmax = 4.235
+            xmin = 3.8077096999999998
+            xmax = 4.281179
             text = "ai"
         intervals [20]:
-            xmin = 4.235
+            xmin = 4.281179
             xmax = 4.365
-            text = "AP"
+            text = "SP"
         intervals [21]:
             xmin = 4.365
             xmax = 4.545
@@ -240,10 +240,10 @@ item []:
             text = "j"
         intervals [34]:
             xmin = 6.75
-            xmax = 8.1605444
+            xmax = 8.1687075
             text = "i"
         intervals [35]:
-            xmin = 8.1605444
+            xmin = 8.1687075
             xmax = 8.3
             text = "SP"
         intervals [36]:

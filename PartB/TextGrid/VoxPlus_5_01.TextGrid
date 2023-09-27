@@ -84,10 +84,10 @@ item []:
             text = "ir"
         intervals [8]:
             xmin = 2.0435375
-            xmax = 2.1460317
+            xmax = 2.1387754
             text = "m"
         intervals [9]:
-            xmin = 2.1460317
+            xmin = 2.1387754
             xmax = 2.5297053000000003
             text = "ei"
         intervals [10]:

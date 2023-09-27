@@ -68,26 +68,26 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.019954649
-            xmax = 0.06
+            xmax = 0.06439909
             text = "y"
         intervals [3]:
-            xmin = 0.06
+            xmin = 0.06439909
             xmax = 0.43537414999999996
             text = "i"
         intervals [4]:
             xmin = 0.43537414999999996
-            xmax = 0.52517004
+            xmax = 0.51882086
             text = "g"
         intervals [5]:
-            xmin = 0.52517004
+            xmin = 0.51882086
             xmax = 1.385034
             text = "e"
         intervals [6]:
             xmin = 1.385034
-            xmax = 1.55
+            xmax = 1.5582766
             text = "sh"
         intervals [7]:
-            xmin = 1.55
+            xmin = 1.5582766
             xmax = 1.9809523999999998
             text = "ir"
         intervals [8]:
@@ -116,10 +116,10 @@ item []:
             text = "ian"
         intervals [14]:
             xmin = 4.2675
-            xmax = 4.425397
+            xmax = 4.3301587
             text = "p"
         intervals [15]:
-            xmin = 4.425397
+            xmin = 4.3301587
             xmax = 6.5696147
             text = "a"
         intervals [16]:

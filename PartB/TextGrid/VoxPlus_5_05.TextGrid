@@ -48,10 +48,10 @@ item []:
             text = "AP"
         intervals [3]:
             xmin = 0.84750006
-            xmax = 0.96
+            xmax = 0.9197278999999999
             text = "r"
         intervals [4]:
-            xmin = 0.96
+            xmin = 0.9197278999999999
             xmax = 1.2199546000000001
             text = "u"
         intervals [5]:

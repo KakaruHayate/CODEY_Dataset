@@ -92,10 +92,10 @@ item []:
             text = "u"
         intervals [4]:
             xmin = 0.4335601
-            xmax = 0.56
+            xmax = 0.5487527999999999
             text = "zh"
         intervals [5]:
-            xmin = 0.56
+            xmin = 0.5487527999999999
             xmax = 0.8589569
             text = "ir"
         intervals [6]:
@@ -108,10 +108,10 @@ item []:
             text = "ang"
         intervals [8]:
             xmin = 1.230839
-            xmax = 1.3342403999999999
+            xmax = 1.3206349
             text = "k"
         intervals [9]:
-            xmin = 1.3342403999999999
+            xmin = 1.3206349
             xmax = 1.5464852
             text = "ou"
         intervals [10]:
@@ -132,10 +132,10 @@ item []:
             text = "uo"
         intervals [14]:
             xmin = 2.5922903
-            xmax = 2.8036282
+            xmax = 2.6485261
             text = "y"
         intervals [15]:
-            xmin = 2.8036282
+            xmin = 2.6485261
             xmax = 2.9941042
             text = "i"
         intervals [16]:

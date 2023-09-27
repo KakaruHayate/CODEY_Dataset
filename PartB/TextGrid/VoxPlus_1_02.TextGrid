@@ -34,10 +34,10 @@ item []:
             text = "po"
         intervals [6]:
             xmin = 1.4075
-            xmax = 2.0344672
+            xmax = 1.9945579
             text = "bu"
         intervals [7]:
-            xmin = 2.0344672
+            xmin = 1.9945579
             xmax = 2.7274377
             text = "ji"
         intervals [8]:
@@ -50,10 +50,10 @@ item []:
             text = "AP"
         intervals [10]:
             xmin = 3.4358276
-            xmax = 3.84
+            xmax = 3.8566895
             text = "chuan"
         intervals [11]:
-            xmin = 3.84
+            xmin = 3.8566895
             xmax = 4.0852607
             text = "zhe"
         intervals [12]:
@@ -108,10 +108,10 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.07
-            xmax = 0.10884354
+            xmax = 0.11519274
             text = "t"
         intervals [3]:
-            xmin = 0.10884354
+            xmin = 0.11519274
             xmax = 0.37278912000000003
             text = "a"
         intervals [4]:
@@ -124,10 +124,10 @@ item []:
             text = "en"
         intervals [6]:
             xmin = 0.7537415
-            xmax = 0.79
+            xmax = 0.7791383
             text = "d"
         intervals [7]:
-            xmin = 0.79
+            xmin = 0.7791383
             xmax = 1.0358276000000002
             text = "ou"
         intervals [8]:
@@ -144,10 +144,10 @@ item []:
             text = "b"
         intervals [11]:
             xmin = 1.5346938
-            xmax = 2.0344672
+            xmax = 1.9945579
             text = "u"
         intervals [12]:
-            xmin = 2.0344672
+            xmin = 1.9945579
             xmax = 2.1632654000000002
             text = "j"
         intervals [13]:
@@ -172,10 +172,10 @@ item []:
             text = "ch"
         intervals [18]:
             xmin = 3.5419502
-            xmax = 3.84
+            xmax = 3.8566895
             text = "uan"
         intervals [19]:
-            xmin = 3.84
+            xmin = 3.8566895
             xmax = 3.8820862000000003
             text = "zh"
         intervals [20]:
@@ -212,10 +212,10 @@ item []:
             text = "AP"
         intervals [28]:
             xmin = 5.601814
-            xmax = 5.69
+            xmax = 5.66712
             text = "y"
         intervals [29]:
-            xmin = 5.69
+            xmin = 5.66712
             xmax = 6.198639600000001
             text = "v"
         intervals [30]:

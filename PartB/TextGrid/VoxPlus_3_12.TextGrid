@@ -176,18 +176,18 @@ item []:
             text = "in"
         intervals [24]:
             xmin = 5.327890999999999
-            xmax = 5.37
+            xmax = 5.359636999999999
             text = "d"
         intervals [25]:
-            xmin = 5.37
+            xmin = 5.359636999999999
             xmax = 5.7125
             text = "i"
         intervals [26]:
             xmin = 5.7125
-            xmax = 5.84
+            xmax = 5.815873
             text = "y"
         intervals [27]:
-            xmin = 5.84
+            xmin = 5.815873
             xmax = 6.4480728
             text = "in"
         intervals [28]:

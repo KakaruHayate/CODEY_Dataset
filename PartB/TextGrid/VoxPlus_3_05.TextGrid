@@ -18,18 +18,18 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.13
-            xmax = 0.5904761999999999
+            xmax = 0.7111111
             text = "peng"
         intervals [3]:
-            xmin = 0.5904761999999999
-            xmax = 0.7446712
+            xmin = 0.7111111
+            xmax = 0.7528345000000001
             text = "SP"
         intervals [4]:
-            xmin = 0.7446712
-            xmax = 1.11
+            xmin = 0.7528345000000001
+            xmax = 1.1401360999999999
             text = "peng"
         intervals [5]:
-            xmin = 1.11
+            xmin = 1.1401360999999999
             xmax = 1.3605442
             text = "dian"
         intervals [6]:
@@ -84,26 +84,26 @@ item []:
             text = "SP"
         intervals [2]:
             xmin = 0.13
-            xmax = 0.2585034
+            xmax = 0.2494331
             text = "p"
         intervals [3]:
-            xmin = 0.2585034
-            xmax = 0.5904761999999999
+            xmin = 0.2494331
+            xmax = 0.7111111
             text = "eng"
         intervals [4]:
-            xmin = 0.5904761999999999
-            xmax = 0.7446712
+            xmin = 0.7111111
+            xmax = 0.7528345000000001
             text = "SP"
         intervals [5]:
-            xmin = 0.7446712
-            xmax = 0.893424
+            xmin = 0.7528345000000001
+            xmax = 0.8870747999999999
             text = "p"
         intervals [6]:
-            xmin = 0.893424
-            xmax = 1.11
+            xmin = 0.8870747999999999
+            xmax = 1.1401360999999999
             text = "eng"
         intervals [7]:
-            xmin = 1.11
+            xmin = 1.1401360999999999
             xmax = 1.1609976999999998
             text = "d"
         intervals [8]:

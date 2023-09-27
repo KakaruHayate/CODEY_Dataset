@@ -66,10 +66,10 @@ item []:
             text = "bu"
         intervals [14]:
             xmin = 4.952381
-            xmax = 5.3
+            xmax = 5.3768706
             text = "deng"
         intervals [15]:
-            xmin = 5.3
+            xmin = 5.3768706
             xmax = 6.188662
             text = "ren"
         intervals [16]:
@@ -116,10 +116,10 @@ item []:
             text = "i"
         intervals [9]:
             xmin = 2.1941042000000004
-            xmax = 2.2657595
+            xmax = 2.2421768
             text = "y"
         intervals [10]:
-            xmin = 2.2657595
+            xmin = 2.2421768
             xmax = 2.487075
             text = "v"
         intervals [11]:
@@ -156,10 +156,10 @@ item []:
             text = "En"
         intervals [19]:
             xmin = 4.2521543
-            xmax = 4.361905
+            xmax = 4.3492065
             text = "z"
         intervals [20]:
-            xmin = 4.361905
+            xmin = 4.3492065
             xmax = 4.4498867
             text = "i0"
         intervals [21]:
@@ -180,14 +180,14 @@ item []:
             text = "u"
         intervals [25]:
             xmin = 4.952381
-            xmax = 5.07
+            xmax = 5.0594106000000005
             text = "d"
         intervals [26]:
-            xmin = 5.07
-            xmax = 5.3
+            xmin = 5.0594106000000005
+            xmax = 5.3768706
             text = "eng"
         intervals [27]:
-            xmin = 5.3
+            xmin = 5.3768706
             xmax = 5.419501
             text = "r"
         intervals [28]:

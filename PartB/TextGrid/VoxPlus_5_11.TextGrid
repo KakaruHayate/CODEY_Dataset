@@ -26,10 +26,10 @@ item []:
             text = "yi"
         intervals [4]:
             xmin = 1.2190476000000001
-            xmax = 2.04
+            xmax = 2.0054421
             text = "ge"
         intervals [5]:
-            xmin = 2.04
+            xmin = 2.0054421
             xmax = 2.5387754
             text = "shi"
         intervals [6]:
@@ -64,10 +64,10 @@ item []:
             text = "AP"
         intervals [3]:
             xmin = 0.78750006
-            xmax = 0.87
+            xmax = 0.860771
             text = "y"
         intervals [4]:
-            xmin = 0.87
+            xmin = 0.860771
             xmax = 1.2190476000000001
             text = "i"
         intervals [5]:
@@ -76,14 +76,14 @@ item []:
             text = "g"
         intervals [6]:
             xmin = 1.33
-            xmax = 2.04
+            xmax = 2.0054421
             text = "e"
         intervals [7]:
-            xmin = 2.04
-            xmax = 2.2684807
+            xmin = 2.0054421
+            xmax = 2.2566895
             text = "sh"
         intervals [8]:
-            xmin = 2.2684807
+            xmin = 2.2566895
             xmax = 2.5387754
             text = "ir"
         intervals [9]:

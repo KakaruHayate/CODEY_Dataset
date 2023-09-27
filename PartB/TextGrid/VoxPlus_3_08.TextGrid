@@ -100,10 +100,10 @@ item []:
             text = "AP"
         intervals [3]:
             xmin = 0.375
-            xmax = 0.54
+            xmax = 0.52063495
             text = "ch"
         intervals [4]:
-            xmin = 0.54
+            xmin = 0.52063495
             xmax = 0.8480726
             text = "un"
         intervals [5]:

@@ -34,10 +34,10 @@ item []:
             text = "kong"
         intervals [6]:
             xmin = 2.8
-            xmax = 3.1774998
+            xmax = 3.2054421000000004
             text = "lao"
         intervals [7]:
-            xmin = 3.1774998
+            xmin = 3.2054421000000004
             xmax = 4.184127
             text = "qian"
         intervals [8]:
@@ -64,10 +64,10 @@ item []:
             text = "AP"
         intervals [3]:
             xmin = 0.39727890000000005
-            xmax = 0.46
+            xmax = 0.44988663
             text = "y"
         intervals [4]:
-            xmin = 0.46
+            xmin = 0.44988663
             xmax = 0.8399093000000001
             text = "i"
         intervals [5]:
@@ -80,10 +80,10 @@ item []:
             text = "e"
         intervals [7]:
             xmin = 2.2125
-            xmax = 2.42
+            xmax = 2.3002268
             text = "k"
         intervals [8]:
-            xmin = 2.42
+            xmin = 2.3002268
             xmax = 2.8
             text = "ong"
         intervals [9]:
@@ -92,14 +92,14 @@ item []:
             text = "l"
         intervals [10]:
             xmin = 2.85
-            xmax = 3.1774998
+            xmax = 3.2054421000000004
             text = "ao"
         intervals [11]:
-            xmin = 3.1774998
-            xmax = 3.3968254
+            xmin = 3.2054421000000004
+            xmax = 3.3786848
             text = "q"
         intervals [12]:
-            xmin = 3.3968254
+            xmin = 3.3786848
             xmax = 4.184127
             text = "ian"
         intervals [13]:
