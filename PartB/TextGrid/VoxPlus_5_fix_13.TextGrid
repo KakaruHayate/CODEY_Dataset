@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 6.88
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 6.88
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0
+            xmax = 0.59863947
+            text = "xiang"
+        intervals [2]:
+            xmin = 0.59863947
+            xmax = 1.1104283000000001
+            text = "yan"
+        intervals [3]:
+            xmin = 1.1104283000000001
+            xmax = 3.7100497999999997
+            text = "zhong"
+        intervals [4]:
+            xmin = 3.7100497999999997
+            xmax = 4.839981
+            text = "neng"
+        intervals [5]:
+            xmin = 4.839981
+            xmax = 6.650035
+            text = "you"
+        intervals [6]:
+            xmin = 6.650035
+            xmax = 6.88
+            text = "SP"
+    item [2]:
+        class = "IntervalTier"
+        name = "phones"
+        xmin = 0
+        xmax = 6.88
+        intervals: size = 11
+        intervals [1]:
+            xmin = 0
+            xmax = 0.16
+            text = "x"
+        intervals [2]:
+            xmin = 0.16
+            xmax = 0.59863947
+            text = "iang"
+        intervals [3]:
+            xmin = 0.59863947
+            xmax = 0.66031744
+            text = "y"
+        intervals [4]:
+            xmin = 0.66031744
+            xmax = 1.1104283000000001
+            text = "En"
+        intervals [5]:
+            xmin = 1.1104283000000001
+            xmax = 1.2099167
+            text = "zh"
+        intervals [6]:
+            xmin = 1.2099167
+            xmax = 3.7100497999999997
+            text = "ong"
+        intervals [7]:
+            xmin = 3.7100497999999997
+            xmax = 3.7499417
+            text = "n"
+        intervals [8]:
+            xmin = 3.7499417
+            xmax = 4.839981
+            text = "eng"
+        intervals [9]:
+            xmin = 4.839981
+            xmax = 5.021315400000001
+            text = "y"
+        intervals [10]:
+            xmin = 5.021315400000001
+            xmax = 6.650035
+            text = "ou"
+        intervals [11]:
+            xmin = 6.650035
+            xmax = 6.88
+            text = "SP"

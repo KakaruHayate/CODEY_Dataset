@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 6.689979
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 6.689979
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0
+            xmax = 0.029524755
+            text = "SP"
+        intervals [2]:
+            xmin = 0.029524755
+            xmax = 0.3936508
+            text = "ruo"
+        intervals [3]:
+            xmin = 0.3936508
+            xmax = 2.0689343
+            text = "shuo"
+        intervals [4]:
+            xmin = 2.0689343
+            xmax = 3.4340137
+            text = "mei"
+        intervals [5]:
+            xmin = 3.4340137
+            xmax = 4.0099812
+            text = "qi"
+        intervals [6]:
+            xmin = 4.0099812
+            xmax = 5.9099883
+            text = "yuan"
+        intervals [7]:
+            xmin = 5.9099883
+            xmax = 6.16
+            text = "SP"
+        intervals [8]:
+            xmin = 6.16
+            xmax = 6.59
+            text = "AP"
+        intervals [9]:
+            xmin = 6.59
+            xmax = 6.689979
+            text = "SP"
+    item [2]:
+        class = "IntervalTier"
+        name = "phones"
+        xmin = 0
+        xmax = 6.689979
+        intervals: size = 14
+        intervals [1]:
+            xmin = 0
+            xmax = 0.029524755
+            text = "SP"
+        intervals [2]:
+            xmin = 0.029524755
+            xmax = 0.1324263
+            text = "r"
+        intervals [3]:
+            xmin = 0.1324263
+            xmax = 0.3936508
+            text = "uo"
+        intervals [4]:
+            xmin = 0.3936508
+            xmax = 0.58920123
+            text = "sh"
+        intervals [5]:
+            xmin = 0.58920123
+            xmax = 2.0689343
+            text = "uo"
+        intervals [6]:
+            xmin = 2.0689343
+            xmax = 2.1723357
+            text = "m"
+        intervals [7]:
+            xmin = 2.1723357
+            xmax = 3.4340137
+            text = "ei"
+        intervals [8]:
+            xmin = 3.4340137
+            xmax = 3.6362812
+            text = "q"
+        intervals [9]:
+            xmin = 3.6362812
+            xmax = 4.0099812
+            text = "i"
+        intervals [10]:
+            xmin = 4.0099812
+            xmax = 4.1070293
+            text = "y"
+        intervals [11]:
+            xmin = 4.1070293
+            xmax = 5.9099883
+            text = "van"
+        intervals [12]:
+            xmin = 5.9099883
+            xmax = 6.16
+            text = "SP"
+        intervals [13]:
+            xmin = 6.16
+            xmax = 6.59
+            text = "AP"
+        intervals [14]:
+            xmin = 6.59
+            xmax = 6.689979
+            text = "SP"

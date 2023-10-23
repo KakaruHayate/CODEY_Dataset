@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 7.31
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 7.31
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0
+            xmax = 0.84958405
+            text = "yi"
+        intervals [2]:
+            xmin = 0.84958405
+            xmax = 2.0799937
+            text = "ge"
+        intervals [3]:
+            xmin = 2.0799937
+            xmax = 2.6302385
+            text = "shi"
+        intervals [4]:
+            xmin = 2.6302385
+            xmax = 4.280097
+            text = "jing"
+        intervals [5]:
+            xmin = 4.280097
+            xmax = 4.810131999999999
+            text = "zhong"
+        intervals [6]:
+            xmin = 4.810131999999999
+            xmax = 6.7799956
+            text = "hua"
+        intervals [7]:
+            xmin = 6.7799956
+            xmax = 6.85
+            text = "SP"
+        intervals [8]:
+            xmin = 6.85
+            xmax = 7.3
+            text = "AP"
+        intervals [9]:
+            xmin = 7.3
+            xmax = 7.31
+            text = "SP"
+    item [2]:
+        class = "IntervalTier"
+        name = "phones"
+        xmin = 0
+        xmax = 7.31
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0
+            xmax = 0.0493472
+            text = "y"
+        intervals [2]:
+            xmin = 0.0493472
+            xmax = 0.84958405
+            text = "i"
+        intervals [3]:
+            xmin = 0.84958405
+            xmax = 0.9
+            text = "g"
+        intervals [4]:
+            xmin = 0.9
+            xmax = 2.0799937
+            text = "e"
+        intervals [5]:
+            xmin = 2.0799937
+            xmax = 2.2398328000000003
+            text = "sh"
+        intervals [6]:
+            xmin = 2.2398328000000003
+            xmax = 2.6302385
+            text = "ir"
+        intervals [7]:
+            xmin = 2.6302385
+            xmax = 2.7789414000000003
+            text = "j"
+        intervals [8]:
+            xmin = 2.7789414000000003
+            xmax = 4.280097
+            text = "ing"
+        intervals [9]:
+            xmin = 4.280097
+            xmax = 4.36
+            text = "zh"
+        intervals [10]:
+            xmin = 4.36
+            xmax = 4.810131999999999
+            text = "ong"
+        intervals [11]:
+            xmin = 4.810131999999999
+            xmax = 4.929696
+            text = "h"
+        intervals [12]:
+            xmin = 4.929696
+            xmax = 6.7799956
+            text = "ua"
+        intervals [13]:
+            xmin = 6.7799956
+            xmax = 6.85
+            text = "SP"
+        intervals [14]:
+            xmin = 6.85
+            xmax = 7.3
+            text = "AP"
+        intervals [15]:
+            xmin = 7.3
+            xmax = 7.31
+            text = "SP"

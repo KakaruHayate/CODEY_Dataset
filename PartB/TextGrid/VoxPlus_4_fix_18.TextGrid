@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.03
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 3.03
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0
+            xmax = 0.60997955
+            text = "SP"
+        intervals [2]:
+            xmin = 0.60997955
+            xmax = 1.0648526999999999
+            text = "gu"
+        intervals [3]:
+            xmin = 1.0648526999999999
+            xmax = 1.44
+            text = "ying"
+        intervals [4]:
+            xmin = 1.44
+            xmax = 1.8700406
+            text = "zuo"
+        intervals [5]:
+            xmin = 1.8700406
+            xmax = 2.87
+            text = "ban"
+        intervals [6]:
+            xmin = 2.87
+            xmax = 3.03
+            text = "SP"
+    item [2]:
+        class = "IntervalTier"
+        name = "phones"
+        xmin = 0
+        xmax = 3.03
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0
+            xmax = 0.60997955
+            text = "SP"
+        intervals [2]:
+            xmin = 0.60997955
+            xmax = 0.68117914
+            text = "g"
+        intervals [3]:
+            xmin = 0.68117914
+            xmax = 1.0648526999999999
+            text = "u"
+        intervals [4]:
+            xmin = 1.0648526999999999
+            xmax = 1.1038549
+            text = "y"
+        intervals [5]:
+            xmin = 1.1038549
+            xmax = 1.44
+            text = "ing"
+        intervals [6]:
+            xmin = 1.44
+            xmax = 1.559202
+            text = "z"
+        intervals [7]:
+            xmin = 1.559202
+            xmax = 1.8700406
+            text = "uo"
+        intervals [8]:
+            xmin = 1.8700406
+            xmax = 1.99
+            text = "b"
+        intervals [9]:
+            xmin = 1.99
+            xmax = 2.87
+            text = "an"
+        intervals [10]:
+            xmin = 2.87
+            xmax = 3.03
+            text = "SP"

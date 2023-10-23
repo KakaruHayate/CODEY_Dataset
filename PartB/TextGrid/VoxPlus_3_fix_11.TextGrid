@@ -1,0 +1,228 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 7.49
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 7.49
+        intervals: size = 20
+        intervals [1]:
+            xmin = 0
+            xmax = 0.009070294000000001
+            text = "SP"
+        intervals [2]:
+            xmin = 0.009070294000000001
+            xmax = 0.6213152
+            text = "AP"
+        intervals [3]:
+            xmin = 0.6213152
+            xmax = 0.68006384
+            text = "SP"
+        intervals [4]:
+            xmin = 0.68006384
+            xmax = 1.0630386
+            text = "zhu"
+        intervals [5]:
+            xmin = 1.0630386
+            xmax = 1.4721089
+            text = "huo"
+        intervals [6]:
+            xmin = 1.4721089
+            xmax = 2.16999
+            text = "huang"
+        intervals [7]:
+            xmin = 2.16999
+            xmax = 2.320048
+            text = "SP"
+        intervals [8]:
+            xmin = 2.320048
+            xmax = 2.7398655
+            text = "ban"
+        intervals [9]:
+            xmin = 2.7398655
+            xmax = 3.139229
+            text = "bo"
+        intervals [10]:
+            xmin = 3.139229
+            xmax = 3.3502593000000003
+            text = "er"
+        intervals [11]:
+            xmin = 3.3502593000000003
+            xmax = 3.830129
+            text = "shi"
+        intervals [12]:
+            xmin = 3.830129
+            xmax = 4.19229
+            text = "lang"
+        intervals [13]:
+            xmin = 4.19229
+            xmax = 4.6503403
+            text = "pang"
+        intervals [14]:
+            xmin = 4.6503403
+            xmax = 5.268934
+            text = "shui"
+        intervals [15]:
+            xmin = 5.268934
+            xmax = 5.591837000000001
+            text = "jia"
+        intervals [16]:
+            xmin = 5.591837000000001
+            xmax = 5.9002266
+            text = "bai"
+        intervals [17]:
+            xmin = 5.9002266
+            xmax = 6.529965
+            text = "qiang"
+        intervals [18]:
+            xmin = 6.529965
+            xmax = 6.77
+            text = "SP"
+        intervals [19]:
+            xmin = 6.77
+            xmax = 7.3
+            text = "AP"
+        intervals [20]:
+            xmin = 7.3
+            xmax = 7.49
+            text = "SP"
+    item [2]:
+        class = "IntervalTier"
+        name = "phones"
+        xmin = 0
+        xmax = 7.49
+        intervals: size = 32
+        intervals [1]:
+            xmin = 0
+            xmax = 0.009070294000000001
+            text = "SP"
+        intervals [2]:
+            xmin = 0.009070294000000001
+            xmax = 0.6213152
+            text = "AP"
+        intervals [3]:
+            xmin = 0.6213152
+            xmax = 0.68006384
+            text = "SP"
+        intervals [4]:
+            xmin = 0.68006384
+            xmax = 0.79978595
+            text = "zh"
+        intervals [5]:
+            xmin = 0.79978595
+            xmax = 1.0630386
+            text = "u"
+        intervals [6]:
+            xmin = 1.0630386
+            xmax = 1.2
+            text = "h"
+        intervals [7]:
+            xmin = 1.2
+            xmax = 1.4721089
+            text = "uo"
+        intervals [8]:
+            xmin = 1.4721089
+            xmax = 1.5898320000000001
+            text = "h"
+        intervals [9]:
+            xmin = 1.5898320000000001
+            xmax = 2.16999
+            text = "uang"
+        intervals [10]:
+            xmin = 2.16999
+            xmax = 2.320048
+            text = "SP"
+        intervals [11]:
+            xmin = 2.320048
+            xmax = 2.3790907999999997
+            text = "b"
+        intervals [12]:
+            xmin = 2.3790907999999997
+            xmax = 2.7398655
+            text = "an"
+        intervals [13]:
+            xmin = 2.7398655
+            xmax = 2.8
+            text = "b"
+        intervals [14]:
+            xmin = 2.8
+            xmax = 3.139229
+            text = "o"
+        intervals [15]:
+            xmin = 3.139229
+            xmax = 3.3502593000000003
+            text = "er"
+        intervals [16]:
+            xmin = 3.3502593000000003
+            xmax = 3.54963
+            text = "sh"
+        intervals [17]:
+            xmin = 3.54963
+            xmax = 3.830129
+            text = "ir"
+        intervals [18]:
+            xmin = 3.830129
+            xmax = 3.8666667
+            text = "l"
+        intervals [19]:
+            xmin = 3.8666667
+            xmax = 4.19229
+            text = "ang"
+        intervals [20]:
+            xmin = 4.19229
+            xmax = 4.319522
+            text = "p"
+        intervals [21]:
+            xmin = 4.319522
+            xmax = 4.6503403
+            text = "ang"
+        intervals [22]:
+            xmin = 4.6503403
+            xmax = 4.8145127
+            text = "sh"
+        intervals [23]:
+            xmin = 4.8145127
+            xmax = 5.268934
+            text = "ui"
+        intervals [24]:
+            xmin = 5.268934
+            xmax = 5.37
+            text = "j"
+        intervals [25]:
+            xmin = 5.37
+            xmax = 5.591837000000001
+            text = "ia"
+        intervals [26]:
+            xmin = 5.591837000000001
+            xmax = 5.689525
+            text = "b"
+        intervals [27]:
+            xmin = 5.689525
+            xmax = 5.9002266
+            text = "ai"
+        intervals [28]:
+            xmin = 5.9002266
+            xmax = 6.070220999999999
+            text = "q"
+        intervals [29]:
+            xmin = 6.070220999999999
+            xmax = 6.529965
+            text = "iang"
+        intervals [30]:
+            xmin = 6.529965
+            xmax = 6.77
+            text = "SP"
+        intervals [31]:
+            xmin = 6.77
+            xmax = 7.3
+            text = "AP"
+        intervals [32]:
+            xmin = 7.3
+            xmax = 7.49
+            text = "SP"
