@@ -23,6 +23,8 @@
  - 你不可以将本数据集中的音频文件作为SVC技术（例如SoVits、DDSP-SVC、Diffusion-SVC、RVC）的输入源进行使用，且不建议作为SVC技术的训练数据进行使用
  
  - 再分发本数据集时，你最好直接使用本GtiHub仓库的链接进行分发
+
+ - This dataset is not intended for non Chinese users, so there are no English documents available. 
  
 **此外…**
 
