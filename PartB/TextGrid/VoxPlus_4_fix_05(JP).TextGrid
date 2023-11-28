@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1.95
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0
+        xmax = 1.95
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0
+            xmax = 0.07
+            text = "SP"
+        intervals [2]:
+            xmin = 0.07
+            xmax = 0.28843536000000003
+            text = "na"
+        intervals [3]:
+            xmin = 0.28843536000000003
+            xmax = 0.5950113499999999
+            text = "i"
+        intervals [4]:
+            xmin = 0.5950113499999999
+            xmax = 0.8453515
+            text = "de"
+        intervals [5]:
+            xmin = 0.8453515
+            xmax = 1.0603175
+            text = "i"
+        intervals [6]:
+            xmin = 1.0603175
+            xmax = 1.38
+            text = "yo"
+        intervals [7]:
+            xmin = 1.38
+            xmax = 1.4666666
+            text = "o"
+        intervals [8]:
+            xmin = 1.4666666
+            xmax = 1.7052155
+            text = "yo"
+        intervals [9]:
+            xmin = 1.7052155
+            xmax = 1.95
+            text = "SP"
+    item [2]:
+        class = "IntervalTier"
+        name = "phones"
+        xmin = 0
+        xmax = 1.95
+        intervals: size = 13
+        intervals [1]:
+            xmin = 0
+            xmax = 0.07
+            text = "SP"
+        intervals [2]:
+            xmin = 0.07
+            xmax = 0.13151927
+            text = "n"
+        intervals [3]:
+            xmin = 0.13151927
+            xmax = 0.28843536000000003
+            text = "a"
+        intervals [4]:
+            xmin = 0.28843536000000003
+            xmax = 0.5950113499999999
+            text = "i"
+        intervals [5]:
+            xmin = 0.5950113499999999
+            xmax = 0.71
+            text = "d"
+        intervals [6]:
+            xmin = 0.71
+            xmax = 0.8453515
+            text = "e"
+        intervals [7]:
+            xmin = 0.8453515
+            xmax = 1.0603175
+            text = "i"
+        intervals [8]:
+            xmin = 1.0603175
+            xmax = 1.0929706000000001
+            text = "y"
+        intervals [9]:
+            xmin = 1.0929706000000001
+            xmax = 1.38
+            text = "o"
+        intervals [10]:
+            xmin = 1.38
+            xmax = 1.4666666
+            text = "o"
+        intervals [11]:
+            xmin = 1.4666666
+            xmax = 1.5283447000000001
+            text = "y"
+        intervals [12]:
+            xmin = 1.5283447000000001
+            xmax = 1.7052155
+            text = "o"
+        intervals [13]:
+            xmin = 1.7052155
+            xmax = 1.95
+            text = "SP"
